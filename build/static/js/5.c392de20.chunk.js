@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[5],{79:function(t,o,p){"use strict";p.r(o),o.default=p.p+"static/media/projectDetailExample.dad06152.md"}}]);
+//# sourceMappingURL=5.c392de20.chunk.js.map
